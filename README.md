@@ -30,3 +30,11 @@ In default setting, two A.I agents have been set to play against each other. You
   --num-episodes NUM_EPISODES
       The number of episodes to run consecutively.
 ```
+
+## Features
+
+  1. A Reversi game engine (completed)
+  2. Reversi agent A.I. (completed)
+  3. Deep q-learning (to be done)
+  4. Rainbow dqn (to be done)
+  5. Maximum Entropy (to be done)
