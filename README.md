@@ -4,7 +4,7 @@ This project basically follows the idea of the paper
 Rainbow: Combining Improvements in Deep Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1710.02298.pdf)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mingyip/Rainbow-Reinforcement-Learning-For-Chess-Games/master/demo.gif" width="200px">
+  <img src="https://raw.githubusercontent.com/mingyip/Rainbow-Reinforcement-Learning-For-Chess-Games/master/demo.gif" width="300px">
 </p>
 
 ## Requirements
